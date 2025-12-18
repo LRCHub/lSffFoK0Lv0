@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "未完成タイムリミッター",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-18T07:21:59.762427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未完成タイムリミッター",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_未完成タイムリミッター_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未完成タイムリミッター",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_未完成タイムリミッター_Orangestar.txt"
+    }
+  ]
+}
